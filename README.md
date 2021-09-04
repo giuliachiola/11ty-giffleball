@@ -31,9 +31,10 @@ Not available.
 npm i
 
 # generate static files in `_site` directory
-npm run builf
+npm run build
 ```
 
+and then open `_site/index.html` with your browser.
 
 ### 🌿 Branches
 
