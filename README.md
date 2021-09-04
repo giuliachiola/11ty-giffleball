@@ -9,7 +9,7 @@ Basic 11ty app from tutorial.
 | Project typology | 📒  Step by step from tutorial [Making a Simple Web Site with the Simplest Static Site Generator](https://medium.com/@11ty/making-a-simple-web-site-with-the-simplest-static-site-generator-level-1-7fc6febca1) |
 
 
-![project preview](docs/project-preview.mp4)
+![project preview](docs/project-preview.png)
 
 ## 🔥 Tech stack
 
