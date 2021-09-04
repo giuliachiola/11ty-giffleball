@@ -4,7 +4,7 @@
   "description": "",
   "main": ".eleventy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "eleventy --formats=liquid,html,jpg,gif"
   },
   "keywords": [],
   "author": "",
