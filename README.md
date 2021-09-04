@@ -4,7 +4,7 @@ Basic 11ty app from tutorial.
 
 | \                | \                                                                                                                                                                                                               |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Deploy status    | /)                                                                                                                                                                                                              |
+| Deploy status    | /                                                                                                                                                                                                              |
 | Deploy preview   | /                                                                                                                                                                                                               |
 | Project typology | 📒  Step by step from tutorial [Making a Simple Web Site with the Simplest Static Site Generator](https://medium.com/@11ty/making-a-simple-web-site-with-the-simplest-static-site-generator-level-1-7fc6febca1) |
 
